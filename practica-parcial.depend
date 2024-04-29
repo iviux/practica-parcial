@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1714225600 source:c:\utn\programacion\practica-parcial\pila.c
+	"pila.h"
+
+1714225600 c:\utn\programacion\practica-parcial\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1714406191 source:c:\utn\programacion\practica-parcial\funciones.c
+	"funciones.h"
+
+1714405434 c:\utn\programacion\practica-parcial\funciones.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	"pila.h"
+
+1714404819 source:c:\utn\programacion\practica-parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
